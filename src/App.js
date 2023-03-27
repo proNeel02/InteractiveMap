@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
     <h1>Hello Shashi raj!!</h1>
-    <h1>Shashi</h1>
+    <h1>my name is shashi and i am from india</h1>
     </div>
   );
 }
